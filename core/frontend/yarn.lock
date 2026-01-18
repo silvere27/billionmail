@@ -1082,6 +1082,11 @@
   dependencies:
     undici-types "~7.8.0"
 
+"@types/prismjs@^1.26.5":
+  version "1.26.5"
+  resolved "https://registry.yarnpkg.com/@types/prismjs/-/prismjs-1.26.5.tgz#72499abbb4c4ec9982446509d2f14fb8483869d6"
+  integrity sha512-AUZTa7hQ2KY5L7AmtSiqxlhWxb4ina0yd8hNbl4TWuqnv/pFP0nDMb3YrfSBf4hJVGLh2YEIBfKaBW/9UEl6IQ==
+
 "@types/web-bluetooth@^0.0.21":
   version "0.0.21"
   resolved "https://registry.yarnpkg.com/@types/web-bluetooth/-/web-bluetooth-0.0.21.tgz#525433c784aed9b457aaa0ee3d92aeb71f346b63"
@@ -1356,15 +1361,15 @@
     "@unocss/core" "66.1.2"
     "@unocss/preset-wind3" "66.1.2"
 
-"@unocss/reset@66.1.0-beta.7":
-  version "66.1.0-beta.7"
-  resolved "https://registry.yarnpkg.com/@unocss/reset/-/reset-66.1.0-beta.7.tgz#72b5f6e317d64240cd400b267e34e5e5648f45ea"
-  integrity sha512-6GAvIfcuEGkx3rryIHWaF6Uwh0QZJYJTmDog/88X2He8v1yGR2RfrUSrrYUf8KfmLQYSZ/u7WazLwJTVmpvjaQ==
-
 "@unocss/reset@66.1.2":
   version "66.1.2"
   resolved "https://registry.yarnpkg.com/@unocss/reset/-/reset-66.1.2.tgz#85eb6413ddba06d1fddc32a2ff488e721df40cbe"
   integrity sha512-njNy/QCpuPKBFeEvhYGwwCe3t8R8JTxONsyUB9NsFOamkF13DSlEB4Yy/QLQfIinbbmx0F/wiej/JGOJk1ecDg==
+
+"@unocss/reset@66.5.11":
+  version "66.5.11"
+  resolved "https://registry.yarnpkg.com/@unocss/reset/-/reset-66.5.11.tgz#88f5992a076711e926b6dca60933d50c50ce97b7"
+  integrity sha512-Q7HudqDXj+IG2nUpUPKb70xwKqbyO6Lkf9igyXQ2XUypnqN9WZYm8leEnweBKiBuROrY1E8c+CqnS8bO/vUTNw==
 
 "@unocss/rule-utils@66.1.2":
   version "66.1.2"
@@ -3902,7 +3907,7 @@ prettier@^3.5.2:
   resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.6.0.tgz#18ec98d62cb0757a5d4eab40253ff3e6d0fc8dea"
   integrity sha512-ujSB9uXHJKzM/2GBuE0hBOUgC77CN3Bnpqa+g80bkv3T3A93wL/xlzDATHhnhkzifz/UE2SNOvmbTz5hSkDlHw==
 
-prismjs@^1.23.0:
+prismjs@^1.23.0, prismjs@^1.30.0:
   version "1.30.0"
   resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.30.0.tgz#d9709969d9d4e16403f6f348c63553b19f0975a9"
   integrity sha512-DEvV2ZF2r2/63V+tK8hQvrR2ZGn10srHbXviTlcv7Kpzw8jWiNTqbVgjO3IY8RxrrOUF8VPMQQFysYYYv0YZxw==

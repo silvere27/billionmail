@@ -16,7 +16,7 @@
 	},
 	"dependencies": {
 		"@monaco-editor/loader": "^1.5.0",
-		"@unocss/reset": "66.1.0-beta.7",
+		"@unocss/reset": "66.5.11",
 		"@vueuse/core": "^13.0.0",
 		"@wangeditor/core": "^1.1.19",
 		"@wangeditor/editor": "5.1.23",
